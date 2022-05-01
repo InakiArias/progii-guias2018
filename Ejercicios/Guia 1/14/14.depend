@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641657569 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guia 2018\ejercicios\guia 1\14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1641844128 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guia 2018\ejercicios\guia 6\7\pilad.c
+	<stdio.h>
+	<stdlib.h>
+	"PilaD.h"
+
+1643501590 c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guia 2018\ejercicios\guia 6\7\pilad.h
+
+1643506540 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guia 2018\ejercicios\guia 6\7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
+1643504572 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guia 2018\ejercicios\guia 6\7\colac.c
+	<stdio.h>
+	<stdlib.h>
+	"ColaC.h"
+
+1643505069 c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guia 2018\ejercicios\guia 6\7\colac.h
+
+1643501585 c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guia 2018\ejercicios\guia 6\7\headers.h
+	<stdio.h>
+	<stdlib.h>
+	"PilaD.h"
+	"ColaC.h"
+

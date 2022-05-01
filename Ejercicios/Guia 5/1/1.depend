@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1641847025 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guia 2018\ejercicios\guia 5\1\main.c
+	"headers.h"
+
+1641845300 c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guia 2018\ejercicios\guia 5\1\headers.h
+	<stdio.h>
+	<stdlib.h>
+	"PilaE.h"
+	"PilaD.h"
+	"Cola.h"
+
+1641842406 c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guia 2018\ejercicios\guia 5\1\pilae.h
+
+1641842032 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guia 2018\ejercicios\guia 5\1\pilae.c
+	<stdio.h>
+	<stdlib.h>
+	"PilaE.h"
+
+1641844198 c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guia 2018\ejercicios\guia 5\1\pilad.h
+
+1641844128 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guia 2018\ejercicios\guia 5\1\pilad.c
+	<stdio.h>
+	<stdlib.h>
+	"PilaD.h"
+
+1641846659 c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guia 2018\ejercicios\guia 5\1\cola.h
+
+1641847003 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guia 2018\ejercicios\guia 5\1\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"Cola.h"
+

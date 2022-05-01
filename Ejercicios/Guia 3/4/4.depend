@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1641745892 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guia 2018\ejercicios\guia 3\4\texto.c
+	"headers.h"
+
+1641745926 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guia 2018\ejercicios\guia 3\4\main.c
+	"headers.h"
+
+1641745892 c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guia 2018\ejercicios\guia 3\4\headers.h
+	<stdio.h>
+	<stdlib.h>
+
+1641744812 c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guia 2018\ejercicios\guia 3\4\texto.c
+
